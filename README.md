@@ -10,7 +10,7 @@ DDL or Data Definition Language actually consists of the SQL commands that can b
 </div>
  
 ## List of DDL commands: 
-<div align="justify">
+<div align="left">
 CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
 DROP: This command is used to delete objects from the database.
 ALTER: This is used to alter the structure of the database.
